@@ -1,0 +1,3 @@
+﻿  Airplane2.cpp
+C:\Users\86134\Desktop\各科作业\简历\项目开发\Airplane2\Airplane2.cpp(89,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Airplane2.vcxproj -> C:\Users\86134\Desktop\各科作业\简历\项目开发\Airplane2\x64\Debug\Airplane2.exe
